@@ -1,0 +1,11 @@
+﻿Build started 10/5/2015 8:05:22 PM.
+     1>Project "c:\Users\Matthew\documents\hw3\hw3\hw3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\matthew\documents\hw3\hw3\source.cpp(43): error C4700: uninitialized local variable 'space' used
+     1>Done Building Project "c:\Users\Matthew\documents\hw3\hw3\hw3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.98
